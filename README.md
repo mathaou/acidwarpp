@@ -2,7 +2,7 @@
 
 #### What is Acidwarp?
 
-![example](./img/example.mp4)
+![example](https://github.com/mathaou/acidwarpp/assets/16282787/d0bc06b8-a8eb-4893-993e-37198a2ad68e)
 
 ---
 
